@@ -2,6 +2,17 @@
 
 A small React-based YouTube-style frontend built with Vite. This project demonstrates a simple video browsing UI, sidebar navigation, video playback page, and recommended videos component.
 
+Here's the sample pic of outcome:
+
+**1.HomePage:**
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7aa4a890-3616-45f7-9374-c9fdaba72f26" />
+
+**2.VideoPage**
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/24449edd-a22d-417f-8eff-500d0ce354db" />
+
+
 **Quick Preview**
 - **Live dev:** `npm run dev`
 - **Build:** `npm run build`
@@ -60,3 +71,5 @@ npm run preview
 
 **License**
 - This repository is provided as-is for learning and demonstration purposes.
+
+  **HAPPY LEARNING**
